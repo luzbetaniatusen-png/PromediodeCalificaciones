@@ -28,6 +28,10 @@ El programa solicita la cantidad de estudiantes, permite ingresar el nombre y la
 
 - Consola de Windows
 
+## Evidencia de ejecucion del programa
+
+![image alt](https://github.com/luzbetaniatusen-png/PromediodeCalificaciones/blob/919c9e73a7d0c15d43705755e85836a108c81fe3/Fotos%20de%20flujo%20de%20control%202.pdf)
+
 ## Autor
 
 Nombres: Luz Betania Tusen, Dariel Kelly, Bairely Montero Guerrero.
