@@ -56,7 +56,7 @@
 
                 Console.WriteLine("----------------------------------------------------------------------------");
                 Console.WriteLine(nombre + "\t\t" + n1 + "\t" + n2 + "\t" + n3 + "\t" + n4 + "\t" + 
-                promedio.ToString("F2") + "\t\t" + estatus);
+                promedio.ToString() + "\t\t" + estatus);
 
             }
 
